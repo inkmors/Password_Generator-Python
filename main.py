@@ -3,7 +3,7 @@ import os
 
 while True:
     os.system('cls')
-    print("\033[92m-----------------------[ MORUSU_PASSWORD ]---------------------\n")
+    print("\033[92m----------------------- [ MORUSU_PASSWORD ] ---------------------\n")
     print("---------------------------------------------------------------")
     print("[ 1 ] Gerar senha com letras (Fraca)")
     print("---------------------------------------------------------------")
@@ -11,9 +11,9 @@ while True:
     print("---------------------------------------------------------------")
     print("[ 3 ] Gerar senha com letras e números  (Mediana)")
     print("---------------------------------------------------------------")
-    print("[ 4 ] Gerar senha com letras e caracteres especiais  (Mediana)")
+    print("[ 4 ] Gerar senha com letras e caracteres especiais  (Forte)")
     print("---------------------------------------------------------------")
-    print("[ 5 ] Gerar senha com números e caracteres especiais  (Mediana)")
+    print("[ 5 ] Gerar senha com números e caracteres especiais  (Forte)")
     print("---------------------------------------------------------------")
     print("[ 6 ] Gerar senha com letras, números e caracteres especiais (Mais Forte)")
     print("---------------------------------------------------------------")
